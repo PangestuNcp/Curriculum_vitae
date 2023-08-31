@@ -1,0 +1,101 @@
+{
+  "porfolio": [
+    {
+      "pelatihan": "DevChallengs",
+      "tipe": "Slicing design web",
+      "nama": "Checkout Page",
+      "gambar": "/img/checkout_page.jpg",
+      "demo": "https://checkout-page-master.web.app/",
+      "code": "https://github.com/PangestuNcp/Devchallenges.io/tree/main/Responsive%20Web%20Developer/6.Checkout%20Page%20Master"
+    },
+    {
+      "pelatihan": "DevChallengs",
+      "tipe": "Slicing design web",
+      "nama": "Edi Home Page",
+      "gambar": "/img/edie_Homage_page.jpg",
+      "demo": "https://edie-homepage-master.web.app/",
+      "code": "https://github.com/PangestuNcp/Devchallenges.io/tree/main/Responsive%20Web%20Developer/7.Edie%20Homepage%20Master"
+    },
+    {
+      "pelatihan": "DevChallengs",
+      "tipe": "Slicing design web",
+      "nama": "Gallery Page",
+      "gambar": "/img/gallery_page.jpg",
+      "demo": "https://my-gallery-master.web.app/",
+      "code": "https://github.com/PangestuNcp/Devchallenges.io/tree/main/Responsive%20Web%20Developer/5.My%20Gallery%20Master"
+    },
+    {
+      "pelatihan": "DevChallengs",
+      "tipe": "Slicing design web",
+      "nama": "My Team Page",
+      "gambar": "/img/my_team_page.jpg",
+      "demo": "https://team-page-master.web.app/",
+      "code": "https://github.com/PangestuNcp/Devchallenges.io/tree/main/Responsive%20Web%20Developer/2.My%20team%20page%20master"
+    },
+    {
+      "pelatihan": "DevChallengs",
+      "tipe": "Slicing design web",
+      "nama": "Recipe blog page",
+      "gambar": "/img/recipe_blog_page.jpg",
+      "demo": "https://cheesecake-recipe-master.web.app/",
+      "code": "https://github.com/PangestuNcp/Devchallenges.io/tree/main/Responsive%20Web%20Developer/4.Classic%20Cheesecake%20Recipe"
+    },
+
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Column preview card",
+      "gambar": "/img/3_column_preview_card.jpg",
+      "demo": "https://column-preview-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/3.Column%20preview%20card"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Article preview component",
+      "gambar": "/img/article_preview_component.jpg",
+      "demo": "https://article-preview-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/7.Article%20preview%20component"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "FAQ accordion card",
+      "gambar": "/img/FAQ_accordion_card.jpg",
+      "demo": "https://faq-accordion-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/5.Faq%20accordion%20card"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Huddle landing page",
+      "gambar": "/img/huddle_landing_page.jpg",
+      "demo": "https://faq-accordion-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/5.Faq%20accordion%20card"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Results summary card",
+      "gambar": "/img/results_summary_card.jpg",
+      "demo": "https://faq-accordion-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/5.Faq%20accordion%20card"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Sign-up form page",
+      "gambar": "/img/sign-up_form_page.jpg",
+      "demo": "https://faq-accordion-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/5.Faq%20accordion%20card"
+    },
+    {
+      "pelatihan": "frontendmentor",
+      "tipe": "Slicing design web",
+      "nama": "Sunnyside agency landing page",
+      "gambar": "/img/sunnyside_agency_landing_page.jpg",
+      "demo": "https://faq-accordion-component.web.app/",
+      "code": "https://github.com/PangestuNcp/Frontend-Mentor/tree/main/Frontend%20Mentor%20-%20Newbie/5.Faq%20accordion%20card"
+    }
+  ]
+}
