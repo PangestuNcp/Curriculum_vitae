@@ -741,4 +741,15 @@ section.porfolio__content {
       }
     }
   }
+
+  footer .footer__contact .content form .col {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+  footer .footer__contact .content form {
+    min-width: 80%;
+  }
+  footer .footer__contact .content form input {
+    width: 100%;
+  }
 }
